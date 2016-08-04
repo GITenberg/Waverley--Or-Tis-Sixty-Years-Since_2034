@@ -1,0 +1,32 @@
+_repo: Waverley--Or-Tis-Sixty-Years-Since_2034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- GITenberg
+title: Waverley; Or, 'Tis Sixty Years Since
+url: http://www.gutenberg.org/ebooks/2034
